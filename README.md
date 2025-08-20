@@ -1,7 +1,7 @@
 ---
 
 # LICENSE (MIT)
-`
+` text 
 MIT License
 
 Copyright (c) 2025 <Your Name>
